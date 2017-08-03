@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{388CD62E-E226-481D-8EDB-9DA2F626009D}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ComicBook.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2340B881-87C2-4BF6-AA8C-7D594A40FA03" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Core/ViewModels/Home/HomeViewModel.cs" line="336" offsetX="461" offsetY="966" expression="mov" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Core/ViewModels/Home/FaqViewModel.cs" line="151" offsetX="438" offsetY="1619" expression="ex" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Touch/Views/Faq/Cells/FaqTableViewCell.cs" line="55" offsetX="922" offsetY="810" expression="this.Frame.Size.Height" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Touch/Views/Faq/Cells/FaqTableViewCell.cs" line="45" offsetX="294" offsetY="660" expression="lblTitle.Frame" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Touch/Views/Faq/Cells/FaqTableViewCell.cs" line="87" offsetX="293" offsetY="1290" expression="lblTitle" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Touch/Views/Faq/FaqTableSource.cs" line="42" offsetX="308" offsetY="615" expression="text" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Touch/Services/Contact/ContactService.cs" line="46" offsetX="467" offsetY="675" expression="contactModel" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/Ibercaja/IbercajaPay/IbercajaPay.Touch/Views/Configuration/ConfiguracionBizum/ConfiguracionBizumSMSClaveFirmaView.cs" line="101" offsetX="257" offsetY="915" expression="value" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/FitKeeper/iOS/Managers/CustomPaymentObserver.cs" line="22" offsetX="452" offsetY="315" expression="transaction.Payment.ProductIdentifier" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/FitKeeper/iOS/Views/GoPro/GoProPurchaseViewController.cs" line="251" offsetX="409" offsetY="3750" expression="days" liveUpdate="False" />
+    <Watch file="../../../Documents/Proyectos/FitKeeper/FitKeeper/Services/UserManager.cs" line="214" offsetX="301" offsetY="3180" expression="daysLeft" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
